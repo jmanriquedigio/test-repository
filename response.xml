@@ -43,7 +43,7 @@
 </Creative>
 <Creative sequence="1">
 <CompanionAds>
-<Companion id="138296278318" width="300" height="250">
+<Companion width="300" height="250">
 <StaticResource creativeType="image/png">
 <![CDATA[ https://logovtor.com/wp-content/uploads/2020/03/region-de-murcia-logo-vector.png ]]>
 </StaticResource>
