@@ -42,7 +42,7 @@
 </Creative>
 <Creative sequence="1">
 <CompanionAds>
-<Companion width="300" height="250">
+<Companion width="" height="">
 <StaticResource creativeType="image/jpg">
 <![CDATA[ https://tr.audio.ad//dp.php?trackId=OTIwNnx8fGJhbl84SERvU1JBYldDUXl4Z2t6LmpwZ3x8fDI2ODA3&creativeId=26791 ]]>
 </StaticResource>
