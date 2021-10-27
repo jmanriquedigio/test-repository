@@ -42,18 +42,18 @@
 </Creative>
 <Creative sequence="1">
 <CompanionAds>
-<Companion width="420" height="350">
-<StaticResource creativeType="image/jpg">
-<![CDATA[ https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Regi%C3%B3n_de_Murcia.jpg ]]>
+<Companion id="138296278318" width="300" height="250">
+<StaticResource creativeType="image/png">
+<![CDATA[ https://pagead2.googlesyndication.com/simgad/10910828216726849922 ]]>
 </StaticResource>
-<CompanionClickThrough>
-<![CDATA[ https://tr.audio.ad//cl.php?trackId=OTIwNnx8fGh0dHBzOi8vY2FqYWNhbmFyaWFzLmNvbS98fHwyNjc5Mw==&creativeId=26791 ]]>
-</CompanionClickThrough>
 <TrackingEvents>
 <Tracking event="creativeView">
-<![CDATA[ https://s3.amazonaws.com/audioad-rtb/imageview/i.gif?data=imageview ]]>
+<![CDATA[ https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuWCRbtXO4MuqxC24x1-0g0kPK5V1DbzjY3lAg7hDYVwTh7DRWAjaVYiOl5rfN1ZODuRLPx0piDYYmPBxI8er4uZ9zpKO8gjNiBxgo4RzIjsnHtid_WyEm_CyYJv5ocr_TgSTfSfv1L-aqffdG-94hBnObSz3_n6k_6eGzAElS8EAXhCuOq2E9j3v1pwJlBG-B4HpYS_qxsTc4NI5Em8pwVTULfrCzjDezpaaXceclehhViYHGkhsp4bSnkIe33qQg0g6vHTM9eOOxgE89-SJAeTP8YiRTQuyspYYfC1t2HPsun7OA92gpIA-6E01s&sig=Cg0ArKJSzEeKlVxBRLJHEAE&uach_m=[UACH]&adurl= ]]>
 </Tracking>
 </TrackingEvents>
+<CompanionClickThrough>
+<![CDATA[ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsvQicR4SaAvFY-ZeqmHIvubhoH97I69hRRlzSO1L4U2E1HczHAuMcbiuiaTL8fzCgpTatsfT3XcCfnRT6Sf8lhr-F7SxGAkoV_wJtzFpnkNSsed2A4VEb8ZMeyo2mSL1kv2Y0MZTnAKCU3NeC-7PM32g9bwmAY13wU59i5l67Z7UOdphrvkbwQs0oTGy43TWnnvAzpKVZLQSqDQCdBRskduS2hKhRAmLQGRu8SP8mZPFhfSqPvqxaK_F8NQx8xIgHhYw_JYbZzAxDgM_n0PoBTLtejRpdj1lUOuGQ&sig=Cg0ArKJSzN3d_i5XZ3aS&fbs_aeid=[gw_fbsaeid]&adurl=https://anunciate.ivoox.com/_iz_.html%3Futm_source%3Dapp%26utm_medium%3Dcunadisplay%26utm_content%3Dbanner300_250_conecta%26utm_campaign%3Danunciate2019 ]]>
+</CompanionClickThrough>
 </Companion>
 <Companion width="300" height="250">
 <StaticResource creativeType="image/jpg">
