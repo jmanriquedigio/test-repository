@@ -42,7 +42,7 @@
 </Creative>
 <Creative sequence="1">
 <CompanionAds>
-<Companion width="320" height="250">
+<Companion width="320" height="350">
 <StaticResource creativeType="image/jpg">
 <![CDATA[ https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Regi%C3%B3n_de_Murcia.jpg ]]>
 </StaticResource>
