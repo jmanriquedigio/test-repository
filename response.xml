@@ -1,0 +1,101 @@
+<VAST version="2.0">
+<Ad id="pre-roll">
+<InLine>
+<AdSystem>
+<![CDATA[ Audio Ad Adserver ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Premios-Fundacin-Cajacanarias-2021 ]]>
+</AdTitle>
+<Category>IAB1-3</Category>
+<Expires>1800</Expires>
+<Impression id="ImpressionConfirmationURL">
+<![CDATA[ https://s3.amazonaws.com/audioad-rtb/start/i.gif?data=start ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear>
+<Duration>00:00:20</Duration>
+<MediaFiles>
+<MediaFile id="audio-file-id" delivery="progressive" bitrate="320000" type="audio/mpeg">
+<![CDATA[ https://secureaudiotrade.audio.ad/front.audio.ad/uploads/banners/ban_qW2nPrrPNON0mWhE.mp3 ]]>
+</MediaFile>
+</MediaFiles>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://ads.audio.ad/delivery/impress?video=vast&zoneid=59494&buyerid=3422&tld=Audio.ad&clktrc={NGINCLKTRK}&winbid=${AUCTION_PRICE}&ui=e09c568a70b010ac0fc22671ac876a88&cb=1618491760&video=vast&zoneid=59494&buyerid=3422&tld=Audio.ad&clktrc=%7BNGINCLKTRK%7D&winbid=%24%7BAUCTION_PRICE%7D&ui=e09c568a70b010ac0fc22671ac876a88&cb=1618472662&siteName=ivoox_videojuegos_rol_anime&publisherName=Ivoox+%28ES%29&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+MI+9+Build%2FQKQ1.190825.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F89.0.4389.105+Mobile+Safari%2F537.36&country=ESP&ip=213.195.120.208&userId=gaid&bidprice=0.0033&os=&language=es&deviceType=1&siteInfo=eyJpZCI6IjQ1IiwibmFtZSI6Iml2b294X3ZpZGVvanVlZ29zX3JvbF9hbmltZSIsImRvbWFpbiI6IkF1ZGlvLmFkIiwiY2F0IjpbIklBQjE0Il0sInNlY3Rpb25jYXQiOlsiSUFCMTQiXSwicGFnZWNhdCI6WyJJQUIxNCJdLCJwYWdlIjoiQXVkaW8uYWQiLCJyZWYiOiIzNDExIiwicHVibGlzaGVyIjp7ImlkIjoiNDUiLCJuYW1lIjoiSXZvb3ggKEVTKSJ9fQ%3D%3D&deviceInfo=eyJ1YSI6Ik1vemlsbGFcLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IE1JIDkgQnVpbGRcL1FLUTEuMTkwODI1LjAwMjsgd3YpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uXC80LjAgQ2hyb21lXC84OS4wLjQzODkuMTA1IE1vYmlsZSBTYWZhcmlcLzUzNy4zNiIsImdlbyI6eyJjb3VudHJ5IjoiRVNQIn0sImlwIjoiMjEzLjE5NS4xMjAuMjA4IiwiZGV2aWNldHlwZSI6MSwib3MiOiIiLCJsYW5ndWFnZSI6ImVzIiwianMiOjAsImZsYXNodmVyIjoiLTEifQ%3D%3D&cid_aid=OTIwNnx8fFByZW1pb3MtRnVuZGFjaW4tQ2FqYWNhbmFyaWFzLTIwMjF8fHxbQXVkaW8uYWRdfHx8MjY3OTE%3D&secure=ok&vast=ok&pxltrk=ok ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://tr.audio.ad/progress/?data=50&video=vast&zoneid=59494&buyerid=3422&tld=Audio.ad&clktrc=%7BNGINCLKTRK%7D&winbid=%24%7BAUCTION_PRICE%7D&ui=e09c568a70b010ac0fc22671ac876a88&cb=1618472662&siteName=ivoox_videojuegos_rol_anime&publisherName=Ivoox+%28ES%29&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+MI+9+Build%2FQKQ1.190825.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F89.0.4389.105+Mobile+Safari%2F537.36&country=ESP&ip=213.195.120.208&userId=gaid&bidprice=0.0033&os=&language=es&deviceType=1&siteInfo=eyJpZCI6IjQ1IiwibmFtZSI6Iml2b294X3ZpZGVvanVlZ29zX3JvbF9hbmltZSIsImRvbWFpbiI6IkF1ZGlvLmFkIiwiY2F0IjpbIklBQjE0Il0sInNlY3Rpb25jYXQiOlsiSUFCMTQiXSwicGFnZWNhdCI6WyJJQUIxNCJdLCJwYWdlIjoiQXVkaW8uYWQiLCJyZWYiOiIzNDExIiwicHVibGlzaGVyIjp7ImlkIjoiNDUiLCJuYW1lIjoiSXZvb3ggKEVTKSJ9fQ%3D%3D&deviceInfo=eyJ1YSI6Ik1vemlsbGFcLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IE1JIDkgQnVpbGRcL1FLUTEuMTkwODI1LjAwMjsgd3YpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uXC80LjAgQ2hyb21lXC84OS4wLjQzODkuMTA1IE1vYmlsZSBTYWZhcmlcLzUzNy4zNiIsImdlbyI6eyJjb3VudHJ5IjoiRVNQIn0sImlwIjoiMjEzLjE5NS4xMjAuMjA4IiwiZGV2aWNldHlwZSI6MSwib3MiOiIiLCJsYW5ndWFnZSI6ImVzIiwianMiOjAsImZsYXNodmVyIjoiLTEifQ%3D%3D&cid_aid=OTIwNnx8fFByZW1pb3MtRnVuZGFjaW4tQ2FqYWNhbmFyaWFzLTIwMjF8fHxbQXVkaW8uYWRdfHx8MjY3OTE%3D&secure=ok&vast=ok&pxltrk=ok ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://tr.audio.ad/progress/?data=25&video=vast&zoneid=59494&buyerid=3422&tld=Audio.ad&clktrc=%7BNGINCLKTRK%7D&winbid=%24%7BAUCTION_PRICE%7D&ui=e09c568a70b010ac0fc22671ac876a88&cb=1618472662&siteName=ivoox_videojuegos_rol_anime&publisherName=Ivoox+%28ES%29&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+MI+9+Build%2FQKQ1.190825.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F89.0.4389.105+Mobile+Safari%2F537.36&country=ESP&ip=213.195.120.208&userId=gaid&bidprice=0.0033&os=&language=es&deviceType=1&siteInfo=eyJpZCI6IjQ1IiwibmFtZSI6Iml2b294X3ZpZGVvanVlZ29zX3JvbF9hbmltZSIsImRvbWFpbiI6IkF1ZGlvLmFkIiwiY2F0IjpbIklBQjE0Il0sInNlY3Rpb25jYXQiOlsiSUFCMTQiXSwicGFnZWNhdCI6WyJJQUIxNCJdLCJwYWdlIjoiQXVkaW8uYWQiLCJyZWYiOiIzNDExIiwicHVibGlzaGVyIjp7ImlkIjoiNDUiLCJuYW1lIjoiSXZvb3ggKEVTKSJ9fQ%3D%3D&deviceInfo=eyJ1YSI6Ik1vemlsbGFcLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IE1JIDkgQnVpbGRcL1FLUTEuMTkwODI1LjAwMjsgd3YpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uXC80LjAgQ2hyb21lXC84OS4wLjQzODkuMTA1IE1vYmlsZSBTYWZhcmlcLzUzNy4zNiIsImdlbyI6eyJjb3VudHJ5IjoiRVNQIn0sImlwIjoiMjEzLjE5NS4xMjAuMjA4IiwiZGV2aWNldHlwZSI6MSwib3MiOiIiLCJsYW5ndWFnZSI6ImVzIiwianMiOjAsImZsYXNodmVyIjoiLTEifQ%3D%3D&cid_aid=OTIwNnx8fFByZW1pb3MtRnVuZGFjaW4tQ2FqYWNhbmFyaWFzLTIwMjF8fHxbQXVkaW8uYWRdfHx8MjY3OTE%3D&secure=ok&vast=ok&pxltrk=ok ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://tr.audio.ad/progress/?data=75&video=vast&zoneid=59494&buyerid=3422&tld=Audio.ad&clktrc=%7BNGINCLKTRK%7D&winbid=%24%7BAUCTION_PRICE%7D&ui=e09c568a70b010ac0fc22671ac876a88&cb=1618472662&siteName=ivoox_videojuegos_rol_anime&publisherName=Ivoox+%28ES%29&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+MI+9+Build%2FQKQ1.190825.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F89.0.4389.105+Mobile+Safari%2F537.36&country=ESP&ip=213.195.120.208&userId=gaid&bidprice=0.0033&os=&language=es&deviceType=1&siteInfo=eyJpZCI6IjQ1IiwibmFtZSI6Iml2b294X3ZpZGVvanVlZ29zX3JvbF9hbmltZSIsImRvbWFpbiI6IkF1ZGlvLmFkIiwiY2F0IjpbIklBQjE0Il0sInNlY3Rpb25jYXQiOlsiSUFCMTQiXSwicGFnZWNhdCI6WyJJQUIxNCJdLCJwYWdlIjoiQXVkaW8uYWQiLCJyZWYiOiIzNDExIiwicHVibGlzaGVyIjp7ImlkIjoiNDUiLCJuYW1lIjoiSXZvb3ggKEVTKSJ9fQ%3D%3D&deviceInfo=eyJ1YSI6Ik1vemlsbGFcLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IE1JIDkgQnVpbGRcL1FLUTEuMTkwODI1LjAwMjsgd3YpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uXC80LjAgQ2hyb21lXC84OS4wLjQzODkuMTA1IE1vYmlsZSBTYWZhcmlcLzUzNy4zNiIsImdlbyI6eyJjb3VudHJ5IjoiRVNQIn0sImlwIjoiMjEzLjE5NS4xMjAuMjA4IiwiZGV2aWNldHlwZSI6MSwib3MiOiIiLCJsYW5ndWFnZSI6ImVzIiwianMiOjAsImZsYXNodmVyIjoiLTEifQ%3D%3D&cid_aid=OTIwNnx8fFByZW1pb3MtRnVuZGFjaW4tQ2FqYWNhbmFyaWFzLTIwMjF8fHxbQXVkaW8uYWRdfHx8MjY3OTE%3D&secure=ok&vast=ok&pxltrk=ok ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://tr.audio.ad/progress/?data=100&video=vast&zoneid=59494&buyerid=3422&tld=Audio.ad&clktrc=%7BNGINCLKTRK%7D&winbid=%24%7BAUCTION_PRICE%7D&ui=e09c568a70b010ac0fc22671ac876a88&cb=1618472662&siteName=ivoox_videojuegos_rol_anime&publisherName=Ivoox+%28ES%29&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+MI+9+Build%2FQKQ1.190825.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F89.0.4389.105+Mobile+Safari%2F537.36&country=ESP&ip=213.195.120.208&userId=gaid&bidprice=0.0033&os=&language=es&deviceType=1&siteInfo=eyJpZCI6IjQ1IiwibmFtZSI6Iml2b294X3ZpZGVvanVlZ29zX3JvbF9hbmltZSIsImRvbWFpbiI6IkF1ZGlvLmFkIiwiY2F0IjpbIklBQjE0Il0sInNlY3Rpb25jYXQiOlsiSUFCMTQiXSwicGFnZWNhdCI6WyJJQUIxNCJdLCJwYWdlIjoiQXVkaW8uYWQiLCJyZWYiOiIzNDExIiwicHVibGlzaGVyIjp7ImlkIjoiNDUiLCJuYW1lIjoiSXZvb3ggKEVTKSJ9fQ%3D%3D&deviceInfo=eyJ1YSI6Ik1vemlsbGFcLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IE1JIDkgQnVpbGRcL1FLUTEuMTkwODI1LjAwMjsgd3YpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uXC80LjAgQ2hyb21lXC84OS4wLjQzODkuMTA1IE1vYmlsZSBTYWZhcmlcLzUzNy4zNiIsImdlbyI6eyJjb3VudHJ5IjoiRVNQIn0sImlwIjoiMjEzLjE5NS4xMjAuMjA4IiwiZGV2aWNldHlwZSI6MSwib3MiOiIiLCJsYW5ndWFnZSI6ImVzIiwianMiOjAsImZsYXNodmVyIjoiLTEifQ%3D%3D&cid_aid=OTIwNnx8fFByZW1pb3MtRnVuZGFjaW4tQ2FqYWNhbmFyaWFzLTIwMjF8fHxbQXVkaW8uYWRdfHx8MjY3OTE%3D&secure=ok&vast=ok&pxltrk=ok ]]>
+</Tracking>
+</TrackingEvents>
+</Linear>
+</Creative>
+<Creative sequence="1">
+<CompanionAds>
+<Companion width="" height="">
+<StaticResource creativeType="image/jpg">
+<![CDATA[ https://tr.audio.ad/dp/OTIwNnx8fGJhbl9yUFl4U1hMc3hrYlhxSkJGLmpwZ3x8fDI2Nzkz_____26791.jpg ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ https://tr.audio.ad//cl.php?trackId=OTIwNnx8fGh0dHBzOi8vY2FqYWNhbmFyaWFzLmNvbS98fHwyNjc5Mw==&creativeId=26791 ]]>
+</CompanionClickThrough>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://s3.amazonaws.com/audioad-rtb/imageview/i.gif?data=imageview ]]>
+</Tracking>
+</TrackingEvents>
+</Companion>
+<Companion width="300" height="250">
+<StaticResource creativeType="image/jpg">
+<![CDATA[ https://tr.audio.ad//dp.php?trackId=OTIwNnx8fGJhbl84SERvU1JBYldDUXl4Z2t6LmpwZ3x8fDI2ODA3&creativeId=26791 ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ https://tr.audio.ad//cl.php?trackId=OTIwNnx8fGh0dHBzOi8vY2FqYWNhbmFyaWFzLmNvbS98fHwyNjgwNw==&creativeId=26791 ]]>
+</CompanionClickThrough>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://s3.amazonaws.com/audioad-rtb/imageview/i.gif?data=imageview ]]>
+</Tracking>
+</TrackingEvents>
+</Companion>
+<Companion width="728" height="90">
+<StaticResource creativeType="image/jpg">
+<![CDATA[ https://tr.audio.ad//dp.php?trackId=OTIwNnx8fGJhbl9PbGF1aUxETktFQkcyYWtLLmpwZ3x8fDI2ODA4&creativeId=26791 ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ https://tr.audio.ad//cl.php?trackId=OTIwNnx8fGh0dHBzOi8vY2FqYWNhbmFyaWFzLmNvbS98fHwyNjgwOA==&creativeId=26791 ]]>
+</CompanionClickThrough>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://s3.amazonaws.com/audioad-rtb/imageview/i.gif?data=imageview ]]>
+</Tracking>
+</TrackingEvents>
+</Companion>
+<Companion width="640" height="640">
+<StaticResource creativeType="image/jpg">
+<![CDATA[ https://tr.audio.ad//dp.php?trackId=OTIwNnx8fGJhbl84WUVWZ0lXQktFNlNUdkVELmpwZ3x8fDI2ODA5&creativeId=26791 ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ https://tr.audio.ad//cl.php?trackId=OTIwNnx8fGh0dHBzOi8vY2FqYWNhbmFyaWFzLmNvbS98fHwyNjgwOQ==&creativeId=26791 ]]>
+</CompanionClickThrough>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://s3.amazonaws.com/audioad-rtb/imageview/i.gif?data=imageview ]]>
+</Tracking>
+</TrackingEvents>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
